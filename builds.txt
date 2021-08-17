@@ -3,7 +3,7 @@ version="2.1.2"
 zip="https://github.com/TheFantasticLoki/plugin.program.lokiwizard/archive/refs/heads/matrix.zip"
 
 name="Loki's Custom Build"
-version="1.0.1"
+version="1.0.2"
 url="https://www.dropbox.com/s/88roih09cc7fek3/Lokis-Custom-Kodi-Build-V-1-0-2.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
