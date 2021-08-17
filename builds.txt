@@ -1,10 +1,10 @@
 id="plugin.program.lokiwizard"
-version="2.1.0"
+version="2.1.2"
 zip="https://github.com/TheFantasticLoki/plugin.program.lokiwizard/archive/refs/heads/matrix.zip"
 
 name="Loki's Custom Build"
 version="1.0"
-url="https://mega.nz/file/ddA0HLQI#h3felQ4QXzvkBpOb57fCM36csC6XmVsdanaWbssP4Cw"
+url="https://www.dropbox.com/s/tviw7tll126wk2a/lokis-custom-kodi-build-v1-0-0.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.1"
