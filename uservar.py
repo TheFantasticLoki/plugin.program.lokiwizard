@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR cyan][B]Loki[/B][/COLOR]Wizard'
 BUILDERNAME = 'LokiWizard - TheFantasticLoki'
 EXCLUDES = [ADDON_ID, 'repository.lokiwizard']
 # Text File with build info in it. Please read https://github.com/TheFantasticLoki/plugin.program.lokiwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://raw.githubusercontent.com/TheFantasticLoki/plugin.program.lokiwizard/master/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
