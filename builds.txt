@@ -1,5 +1,5 @@
 id="plugin.program.lokiwizard"
-version="2.1.2"
+version="2.1.5"
 zip="https://github.com/TheFantasticLoki/plugin.program.lokiwizard/archive/refs/heads/matrix.zip"
 
 name="Loki's Custom Build"
