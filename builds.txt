@@ -17,7 +17,7 @@ info="https://raw.githubusercontent.com/TheFantasticLoki/plugin.program.lokiwiza
 description="Loki's Personal Custom Built Kodi Install"
 
 name="[COLOR=cyan]Loki[COLOR=red]Flix[/COLOR]"
-version="1.0.0"
+version="1.0.2"
 url="https://www.dropbox.com/s/4ct73pc8lf4w5qc/Lokiflix.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/935irjgl3ki26rm/Lokiflix_guisettings.zip?dl=1"
