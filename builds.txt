@@ -27,7 +27,7 @@ icon="https://raw.githubusercontent.com/TheFantasticLoki/plugin.program.lokiwiza
 fanart="https://raw.githubusercontent.com/TheFantasticLoki/plugin.program.lokiwizard/master/resources/Build%20Assets/Touchscreen%20Build/fanart.png"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
-info="https://"
+info="https://www.dropbox.com/s/iqklnjxjapbr2wz/Lokiflix.txt?dl=1"
 description="[COLOR=cyan]Loki[COLOR=red]Flix[/COLOR] is a custom Titan Bingie Mod Based Build with functionality revolving around TMDB Helper and Seren."
 
 name="Loki's Touchscreen Build"
